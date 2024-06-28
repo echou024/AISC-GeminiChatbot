@@ -1,0 +1,13 @@
+prefix=/Users/eva/GeminiChatbot/venv
+exec_prefix=/Users/eva/GeminiChatbot/venv
+libdir=/Users/eva/GeminiChatbot/venv/lib
+sharedlibdir=/Users/eva/GeminiChatbot/venv/lib
+includedir=/Users/eva/GeminiChatbot/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
