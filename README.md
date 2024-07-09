@@ -1,3 +1,4 @@
 # 🤖🗒️🖥️📝Task Management Web Application with Gemini Chatbot:
 
-A full-stack chatroom application with user authentication, profile management, message editing/search functionalities, and responsive design using Node.js and MongoDB.
+A full-stack web application featuring a task management dashboard with an integrated chatbot, utilizing Google’s Gemini Pro API, Streamlit for the UI, and SQLite3 for secure user and task data management.
+
